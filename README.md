@@ -1,7 +1,5 @@
 # Clima-tempo
 
-# Aplicativo Clima-tempo
-
 
 ## Instruções
 
