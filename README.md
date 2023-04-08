@@ -1,7 +1,7 @@
 # Clima-tempo
 
 # Aplicativo Clima-tempo
-#uso de Api 
+
 
 ## Instruções
 
@@ -11,7 +11,7 @@
 
 
 ## Tech Stack
-
+- API
 - Html
 - Css
 - JavaScript
