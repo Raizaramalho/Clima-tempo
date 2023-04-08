@@ -1,6 +1,7 @@
 # Clima-tempo
 
 # Aplicativo Clima-tempo
+#uso de Api 
 
 ## Instruções
 
